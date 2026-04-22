@@ -1,4 +1,4 @@
-# gnoke-savenative
+# Gnoke-SaveNative
 
 A self-healing native file write layer for browser-based apps.  
 Mount a folder, write files, survive OS kills and reloads — automatically.  
