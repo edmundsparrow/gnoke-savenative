@@ -1,0 +1,36 @@
+{
+  "name": "gnoke-savenative",
+  "version": "0.1.1",
+  "description": "Self-healing native file write layer for browser-based apps. Mount, write, survive — part of the Gnoke Suite.",
+  "type": "module",
+  "main": "gnoke-savenative.js",
+  "exports": "./gnoke-savenative.js",
+  "files": [
+    "gnoke-savenative.js",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "echo 'Browser-only library — open ghost-editor.html to test'"
+  },
+  "keywords": [
+    "filesystem",
+    "file-system-access",
+    "indexeddb",
+    "offline",
+    "pwa",
+    "mobile",
+    "gnoke",
+    "savenative",
+    "browser"
+  ],
+  "author": "Edmund Sparrow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edmundsparrow/gnoke-savenative"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
