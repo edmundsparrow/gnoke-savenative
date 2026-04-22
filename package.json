@@ -7,8 +7,7 @@
   "exports": "./gnoke-savenative.js",
   "files": [
     "gnoke-savenative.js",
-    "README.md",
-    "CHANGELOG.md"
+    "README.md"
   ],
   "scripts": {
     "test": "echo 'Browser-only library — open ghost-editor.html to test'"
